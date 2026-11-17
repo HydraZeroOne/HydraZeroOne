@@ -46,6 +46,4 @@ Outside of code, I’ve trained at the gym daily since 2025. I’ve held a varie
 | **Systems & Security** | Low-level C/C++ software, custom OS setups, CTFs, and reverse engineering |
 | **Hardware & Creative** | Arduino/Raspberry Pi prototypes, indie games, and creative experiments |
 
----
-
 </div>
