@@ -2,7 +2,7 @@
 
 Hey, I’m **Emil**.
 
-I wrote my first lines of code at **11**, starting with Lua to build games on Roblox. By **15**, I moved into C and C++ for low-level software, and at **17** I expanded into full-stack web development with JavaScript, Ruby, Python, and React. Lately I’ve been diving deep into **cybersecurity, OS internals, and reverse engineering** — and I’m hooked.
+I wrote my first lines of code at 11, starting with Lua to build games on Roblox. By 15, I moved into C and C++ for low level software, and at 17 I expanded into full-stack web development with JavaScript, Ruby, Python, and React. Lately I’ve been diving deep into **cybersecurity, OS internals, and reverse engineering**.
 
 Outside of code, I’ve trained at the gym daily since 2025. I’ve held a variety of grounded starter jobs (supermarkets, construction, and similar roles) and put in the hours. In my free time I make small indie games in Unity, Roblox Studio, and Unreal Engine, and travel whenever I can. Overall, I’m just focused on becoming a sharper version of myself every year.
 
@@ -47,9 +47,5 @@ Outside of code, I’ve trained at the gym daily since 2025. I’ve held a varie
 | **Hardware & Creative** | Arduino/Raspberry Pi prototypes, indie games, and creative experiments |
 
 ---
-
-<div align="center">
-
-*Thanks for stopping by. Feel free to reach out.*
 
 </div>
