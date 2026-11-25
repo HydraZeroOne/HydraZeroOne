@@ -1,6 +1,6 @@
 ### About
 
-Hey, I’m **Emil**.
+Hey
 
 I wrote my first lines of code at 11, starting with Lua to build games on Roblox. By 15, I moved into C and C++ for low level software, and at 17 I expanded into full stack web development with JavaScript, Ruby, Python, and React. Lately I’ve been diving deep into **cybersecurity, OS internals, and reverse engineering**.
 
